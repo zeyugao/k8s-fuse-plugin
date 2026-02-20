@@ -7,7 +7,7 @@ This plugin allows the mount of a FUSE device without the need for escalating pr
 ### Deploy as Daemon Set:
 
 ```
-kubectl create -f https://github.com/nextflow-io/k8s-fuse-plugin/raw/master/manifests/k8s-fuse-plugin.yml
+kubectl create -f https://raw.githubusercontent.com/zeyugao/k8s-fuse-plugin/refs/heads/main/manifests/k8s-fuse-plugin.yml
 ```
 
 ### Deploy
